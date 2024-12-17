@@ -25,7 +25,6 @@ Developers can add custom analysis logic to expand its capabilities over time.
 Currently, the system supports the following datasets:
 - emotion: Text emotion classification dataset
 - imdb: Movie review sentiment dataset
-- glue: General Language Understanding Evaluation benchmark
 
 **Requirements**
 
