@@ -25,6 +25,12 @@ Developers can add custom analysis logic to expand its capabilities over time.
 Currently, the system supports the following datasets:
 - emotion: Text emotion classification dataset
 - imdb: Movie review sentiment dataset
+- or any other text based or structured dataset from huggingface
+
+**Features**
+- Support analysis for textual data and provides information about the text in a pdf file about word count, complexity, label distribution and visualistion in form of word cloud.
+- Separate method for analysis of structured data like the titanic dataset such as basic statistical information and null,duplicated and outliers count and index in the dataset for better navigayion.
+- Attractive visualisations for the same for better understanding of the data.
 
 **Requirements**
 
