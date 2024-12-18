@@ -1,0 +1,12 @@
+EXPLORATORY_ANALYSIS:
+{'basic_info': {'total_rows': 16000, 'total_columns': 2, 'column_types': {'text': dtype('O'), 'label': dtype('int64')}}, 'summary_statistics': {'label': {'count': 16000.0, 'mean': 1.5659375, 'std': 1.5014303644907956, 'min': 0.0, '25%': 0.0, '50%': 1.0, '75%': 3.0, 'max': 5.0}}, 'column_details': {'text': {'unique_values': 15969, 'null_count': 0, 'null_percentage': 0.0}, 'label': {'unique_values': 6, 'null_count': 0, 'null_percentage': 0.0}}}
+
+PREPROCESSING_NEEDS:
+{'missing_values': {'text': 0, 'label': 0}, 'duplicate_rows': {'total_duplicates': 1}}
+
+TEXT_INSIGHTS:
+{'text': 'supporting me'}
+
+VISUALIZATIONS:
+['comprehensive_dataset_analysis_workspace/visualizations/emotion/label_distribution.png']
+

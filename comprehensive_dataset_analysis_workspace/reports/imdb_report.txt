@@ -1,0 +1,12 @@
+EXPLORATORY_ANALYSIS:
+{'basic_info': {'total_rows': 25000, 'total_columns': 2, 'column_types': {'text': dtype('O'), 'label': dtype('int64')}}, 'summary_statistics': {'label': {'count': 25000.0, 'mean': 0.5, 'std': 0.50001000030001, 'min': 0.0, '25%': 0.0, '50%': 0.5, '75%': 1.0, 'max': 1.0}}, 'column_details': {'text': {'unique_values': 24904, 'null_count': 0, 'null_percentage': 0.0}, 'label': {'unique_values': 2, 'null_count': 0, 'null_percentage': 0.0}}}
+
+PREPROCESSING_NEEDS:
+{'missing_values': {'text': 0, 'label': 0}, 'duplicate_rows': {'total_duplicates': 96}}
+
+TEXT_INSIGHTS:
+{'text': 'It was funny, gross and just all out a very good movie'}
+
+VISUALIZATIONS:
+['comprehensive_dataset_analysis_workspace/visualizations/imdb/label_distribution.png']
+
